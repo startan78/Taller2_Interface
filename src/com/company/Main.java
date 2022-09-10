@@ -12,6 +12,8 @@ import java.util.Scanner;
             System.out.println(" 2. postgres" );
             System.out.println(" 3. Sql" );
 
+            System.out.println("---");
+
             int seleccion = sc.nextInt();
 
             if(seleccion == 1 ){
